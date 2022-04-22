@@ -31,6 +31,6 @@
   "nativePackage": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/skrafft/react-native-jitsi-meet.git"
+    "url": "https://github.com/ozerdur/react-native-jitsi-meet.git"
   }
 }
